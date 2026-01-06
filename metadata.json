@@ -1,0 +1,5 @@
+{
+  "name": "Little Migrant Bird Manager",
+  "description": "A volunteer service platform for managing 'Little Migrant Birds' (children in need). Features role-based access (Admin, Leader, Volunteer), request approval workflows, and progress tracking. Includes AI-assisted report writing.",
+  "requestFramePermissions": []
+}
